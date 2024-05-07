@@ -1,0 +1,3 @@
+# don't commit raw downloaded metal futures data
+# prefer formatted files made from `precious_metals_data_format.py`
+precious-metals-data/
