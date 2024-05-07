@@ -1,9 +1,10 @@
 # Is Bitcoin the new Gold?
 
-We will be comparing historical data of $BTC, precious metal prices, and comparing it to stock market performance. Gold has been known as the standard go to investment when the stock market is bleak, are people now buying bitcoin instead? Is $BTC the new gold?
+We will be comparing historical data of $BTC, precious metal prices, and comparing it to stock market performance. Gold has been known as the standard go-to investment when the stock market is bleak, are people now buying bitcoin instead? Is $BTC the new gold?
 
 Background Info:
-
+History of precious metals as an inflation hedge. 
+What is Crypto?
 
 Questions:
 -Do people buy $BTC when the stock market is struggling?
@@ -17,4 +18,8 @@ Data Sets:
 - Gold Futures
 - Inflation Data
 - Interest Rates
+
+  Analysis: Correlation Data, Graphs, Seasonality and Trends
+
+  Topic for Further Research: MemeCoins?
 
