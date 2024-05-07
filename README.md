@@ -13,8 +13,8 @@ Questions:
 
 Data Sets:
 - $BTC and/or $ETH Historical price
-- Nasdaq
-- SP500
+- Nasdaq Composite Index sourced from https://www.nasdaq.com/market-activity/index/comp/historical
+- S&P 500 Index sourced from https://www.nasdaq.com/market-activity/index/spx/historical
 - Gold Futures
 - Inflation Data
 - Interest Rates
