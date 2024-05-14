@@ -22,6 +22,16 @@ def get_gold_futures_df():
     return _read_metal_futures_df("Resources/Gold_Futures.csv")
 
 
+def get_gold_futures_by_date_df():
+    """Get a DataFrame of Gold Futures with date as index."""
+    return get_gold_futures_df().set_index("date")
+
+
 def get_silver_futures_df():
     """Get a DataFrame of Silver Futures."""
     return _read_metal_futures_df("Resources/Silver_Futures.csv")
+
+
+def get_silver_futures_by_date_df():
+    """Get a DataFrame of Silver Futures with date as index."""
+    return get_silver_futures_df().set_index("date")
