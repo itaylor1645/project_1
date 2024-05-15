@@ -24,7 +24,7 @@ Data Sets:
 
   Contributors
 
-  Ian Taylor - $BTC and $ETH data analysis
-  Tony Montgomery - Nasdaq Composite Index/S&P 500 Index data analysis
-  Eric Penn - Inflation and Interest Rate data analysis
-  Mitchell Terry - Gold & Silver Futures data analysis and correlation data for all data sets
+  - Ian Taylor - $BTC and $ETH data analysis
+  - Tony Montgomery - Nasdaq Composite Index/S&P 500 Index data analysis
+  - Eric Penn - Inflation and Interest Rate data analysis
+  - Mitchell Terry - Gold & Silver Futures data analysis and correlation data for all data sets
