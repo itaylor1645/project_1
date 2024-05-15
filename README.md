@@ -16,8 +16,8 @@ Data Sets:
 - Nasdaq Composite Index sourced from https://www.nasdaq.com/market-activity/index/comp/historical
 - S&P 500 Index sourced from https://www.nasdaq.com/market-activity/index/spx/historical
 - Gold and Silver Futures sourced from "[Gold, Silver & Precious Metals Futures Daily Data](https://www.kaggle.com/datasets/guillemservera/precious-metals-data)" by [Guillem SD](https://www.kaggle.com/guillemservera), licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), using subset of data
-- Inflation Data
-- Interest Rates
+- Inflation Data from https://data.bls.gov/cgi-bin/surveymost
+- Interest Rates from https://fred.stlouisfed.org/series/FEDFUNDS
 
   Analysis: Correlation Data, Graphs, Seasonality and Trends
 
