@@ -2,15 +2,15 @@
 
 We will be comparing historical data of $BTC/$ETH, precious metal prices, Nasdaq Composite, S&P 500 Index, interest rates, and the Consumer Price Index. In the 21st century, where does Bitcoin fit in the typical portfolio? Is it a new go-to hedge against inflation?  Is $BTC the new gold?
 
-Background Info:
+## Background Info
 Description of the stock market, bitcoin, precious metals, interest rates, and inflation.
 
-Questions:
--Is BTC replacing Gold as the go-to inflation hedge?
--What is the correlation between different investment types, interest rates, and inflation?
--How closely related are the seasonal trends of different investment types?
+## Questions
+- Is BTC replacing Gold as the go-to inflation hedge?
+- What is the correlation between different investment types, interest rates, and inflation?
+- How closely related are the seasonal trends of different investment types?
 
-Data Sets:
+## Data Sets
 - $BTC and $ETH Historical price https://www.kaggle.com/datasets/saswattulo/bitcoin-price-history-btc-usd https://www.investing.com/crypto/ethereum/historical-data
 - Nasdaq Composite Index sourced from https://www.nasdaq.com/market-activity/index/comp/historical
 - S&P 500 Index sourced from https://www.nasdaq.com/market-activity/index/spx/historical
@@ -18,17 +18,14 @@ Data Sets:
 - Inflation Data from https://data.bls.gov/cgi-bin/surveymost
 - Interest Rates from https://fred.stlouisfed.org/series/FEDFUNDS
 
-Analysis: 
+## Analysis
+We will compare correlation data and trends for all the investment types mentioned above as well as inflation and interest data. By seeing which investments are most closely correlated with inflation, we can see which assets are viewed as inflation hedge.
 
-  We will compare correlation data and trends for all the investment types mentioned above as well as inflation and interest data. By seeing which investments are most closely correlated with inflation, we can see which assets are viewed as inflation hedge.
+## Conclusion
+The conclusion is BTC is not the new gold. You're going to want to spread out your investments over multiple asset classes. Crypto, traditional investments, or commodities like gold and silver can help you mitigate your risk. Crypto typically offers high returns with much more volatility and risk. Which is why we recommend combining them with more stable assets like gold and silver, which have historically acted as safe assets during economic uncertainty. While also monitoring interest rates and CPI trends will give you additional information about economic conditions and allow you to adjust your strategy accordingly.
 
-Conclusion:
-
-  The conclusion is BTC is not the new gold. You're going to want to spread out your investments over multiple asset classes. Crypto, traditional investments, or commodities like gold and silver can help you mitigate your risk. Crypto typically offers high returns with much more volatility and risk. Which is why we    recommend combining them with more stable assets like gold and silver, which have historically acted as safe assets during economic uncertainty. While also monitoring interest rates and CPI trends will give you additional information about economic conditions and allow you to adjust your     strategy accordingly.
-
-  Contributors:
-
-  - Ian Taylor - $BTC and $ETH data analysis
-  - Tony Montgomery - Nasdaq Composite Index/S&P 500 Index data analysis
-  - Eric Penn - Inflation and Interest Rate data analysis
-  - Mitchell Terry - Gold & Silver Futures data analysis and correlation data for all data sets
+## Contributors
+- Ian Taylor - $BTC and $ETH data analysis
+- Tony Montgomery - Nasdaq Composite Index/S&P 500 Index data analysis
+- Eric Penn - Inflation and Interest Rate data analysis
+- Mitchell Terry - Gold & Silver Futures data analysis and correlation data for all data sets
