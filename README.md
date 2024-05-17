@@ -18,7 +18,7 @@ Data Sets:
 - Inflation Data from https://data.bls.gov/cgi-bin/surveymost
 - Interest Rates from https://fred.stlouisfed.org/series/FEDFUNDS
 
-  Analysis: 
+Analysis: 
 
   We will compare correlation data and trends for all the investment types mentioned above as well as inflation and interest data. By seeing which investments are most closely correlated with inflation, we can see which assets are viewed as inflation hedge.
   
