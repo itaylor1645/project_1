@@ -21,6 +21,8 @@ Data Sets:
   Analysis: 
 
   We will compare correlation data and trends for all the investment types mentioned above as well as inflation and interest data. By seeing which investments are most closely correlated with inflation, we can see which assets are viewed as inflation hedge.
+  
+  The conclusion is you're going to want to spread out your investments over multiple asset classes. Crypto, traditional investments, or commodities like gold and silver can help you mitigate your risk. Crypto typically offers high returns with much more volatility and risk. Which is why we    recommend combining them with more stable assets like gold and silver, which have historically acted as safe assets during economic uncertainty. While also monitoring interest rates and CPI trends will give you additional information about economic conditions and allow you to adjust your     strategy accordingly.
 
   Contributors
 
